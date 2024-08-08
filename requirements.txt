@@ -9,4 +9,6 @@ PyAutoGUI==0.9.54
 pywhatkit==5.4
 SpeechRecognition==3.10.0
 streamlit==1.37.1
-~treamlit==1.27.2
+
+google-generativeai==0.7.2
+
