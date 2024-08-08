@@ -1,0 +1,12 @@
+face_recog==0.0.1
+googlesearch_python==1.2.3
+gTTS==2.4.0
+mysql_connector_repackaged==0.3.1
+Pillow==10.0.0
+Pillow==10.4.0
+protobuf==5.27.3
+PyAutoGUI==0.9.54
+pywhatkit==5.4
+SpeechRecognition==3.10.0
+streamlit==1.37.1
+~treamlit==1.27.2
