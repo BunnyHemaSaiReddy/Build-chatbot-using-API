@@ -17,7 +17,7 @@ try:
   import pywhatkit
 except Exception as e:
   print("Error :",e)
-time=datetime.datetime.now()
+'''time=datetime.datetime.now()
 #st.write(time)
 class sql_:
  def __init__(self):
@@ -251,3 +251,4 @@ try:
        st.audio("chat_speak.mp3")
 except Exception as e:
   st.warning(e)
+'''
